@@ -1,0 +1,7 @@
+Efectividades
+Regresion logistica: 89.28%
+KNN: 71.42%
+Decision Tree: 94.64% (demoro un aprox un minuto calculando respuesta)
+Naive Bayes: 64.29%
+Neuronal Network: 96.44%
+SVM Kernel Lineal: 87.50%
